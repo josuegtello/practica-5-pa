@@ -16,7 +16,9 @@
   <property name="styleSheet">
    <string notr="true">QWidget#gui *{
 	font-family:arial;
+	background-color:white;
 	font-size:14px;
+	color:black;
 }
 
 /*Left Menu*/

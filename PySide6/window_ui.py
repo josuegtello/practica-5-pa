@@ -26,7 +26,9 @@ class Ui_MainWindow(object):
         MainWindow.resize(845, 600)
         MainWindow.setStyleSheet(u"QWidget#gui *{\n"
 "	font-family:arial;\n"
+"	background-color:white;\n"
 "	font-size:14px;\n"
+"	color:black;\n"
 "}\n"
 "\n"
 "/*Left Menu*/\n"
